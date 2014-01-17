@@ -1,0 +1,51 @@
+.damyo {
+	top: 30px;
+	background-color: green;
+	width: 1000px;
+	height: 750px;
+	position: absolute;
+}
+
+.damyo .south {
+	top: 600px;
+	left: 450px;
+	position: absolute;
+}
+
+.damyo .west {
+	top: 325px;
+	left: 50px;
+	position: absolute;
+}
+
+.damyo .north {
+	top: 50px;
+	left: 450px;
+	position: absolute;
+}
+
+.damyo .east {
+	top: 325px;
+	left: 875px;
+	position: absolute;
+}
+
+.damyo .center {
+	top: 320px;
+	left: 477px;
+	position: absolute;
+}
+
+.menu-bar {
+	background-color: gray;
+	width: 1000px;
+	height: 30px;
+}
+
+.menu-bar button {
+	display: inline;
+}
+
+.player-name {
+	width: 300px;	
+}
